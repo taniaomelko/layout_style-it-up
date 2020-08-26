@@ -1,8 +1,8 @@
 # Style it up
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://taniaomelko.github.io/layout_style-it-up/) <br>
-    - [TEST REPORT LINK](https://taniaomelko.github.io/layout_style-it-up/report/html_report/)
-2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
+      - [DEMO LINK](https://taniaomelko.github.io/layout_style-it-up/) <br>
+      - [TEST REPORT LINK](https://taniaomelko.github.io/layout_style-it-up/report/html_report/)
+  2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
 ## The task

@@ -17,38 +17,26 @@ body {
   background-color: blue;
 }
 
-#header:hover {
-  height: var(--block-height);
-}
-
 #footer {
   background-color: black;
-}
-
-#footer:hover {
-  height: var(--block-height);
 }
 
 .important {
   background-color: red;
 }
 
-.important:hover {
-  height: var(--block-height);
-}
-
 .interesting {
   background-color: green;
-}
-
-.interesting:hover {
-  height: var(--block-height);
 }
 
 .surprising {
   background-color: orange;
 }
 
+#header:hover,
+#footer:hover,
+.important:hover,
+.interesting:hover,
 .surprising:hover {
   height: var(--block-height);
 }
