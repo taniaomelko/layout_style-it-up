@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  --block-height: 200px;
+}
+
+#header,
+#footer,
+.important,
+.interesting,
+.surprising {
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+#header {
+  background-color: blue;
+}
+
+#header:hover {
+  height: var(--block-height);
+}
+
+#footer {
+  background-color: black;
+}
+
+#footer:hover {
+  height: var(--block-height);
+}
+
+.important {
+  background-color: red;
+}
+
+.important:hover {
+  height: var(--block-height);
+}
+
+.interesting {
+  background-color: green;
+}
+
+.interesting:hover {
+  height: var(--block-height);
+}
+
+.surprising {
+  background-color: orange;
+}
+
+.surprising:hover {
+  height: var(--block-height);
+}
